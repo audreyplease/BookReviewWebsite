@@ -1,2 +1,2 @@
 # first-proj
-first formal ind. proj on github
+Ind project work in progress site
